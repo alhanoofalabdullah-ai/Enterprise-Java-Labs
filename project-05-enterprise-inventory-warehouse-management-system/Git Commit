@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 05 enterprise inventory warehouse management system"
+
+git push
