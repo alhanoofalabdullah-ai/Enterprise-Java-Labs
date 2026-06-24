@@ -76,3 +76,23 @@ Available Assets: 1
 Maintenance Assets: 1
 Active Assignments: 1
 Maintenance Records: 1
+
+---
+
+## Skills Demonstrated
+
+* Java Programming
+* OOP Design
+* Asset Lifecycle Management
+* Assignment Tracking
+* Maintenance Management
+* Enterprise Reporting
+* SQL Modeling
+
+⸻
+
+Author
+
+Alhanoof Alabdullah
+
+Enterprise Java Portfolio Project
