@@ -74,3 +74,23 @@ Workflows: 2
 Approved Documents: 1
 Rejected Documents: 1
 Audit Logs: 5
+
+---
+
+## Skills Demonstrated
+
+* Java Programming
+* OOP Design
+* Documentation Governance
+* Workflow Automation
+* Approval Logic
+* Audit Trail Design
+* Enterprise Reporting
+
+---
+
+Author
+
+Alhanoof Alabdullah
+
+Enterprise Java Portfolio Project
